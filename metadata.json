@@ -1,0 +1,5 @@
+{
+  "name": "DeltaBall RPG",
+  "description": "A top-down RPG movement engine replicating the feel of Deltarune with a blue ball protagonist.",
+  "requestFramePermissions": []
+}
